@@ -1,15 +1,22 @@
 #!/usr/bin/env python3
-import brain_games.cli
+
+
+"""My first programm."""
+
+
+from brain_games.cli import welcome_user
+
 
 def greet():
-	print('Welcome to the Brain Games!')
-	brain_games.cli.welcome_user()
+    """Doc str."""
+    print('Welcome to the Brain Games!')  # noqa: WPS421
+    welcome_user()
+
 
 def main():
-	greet()
-
+    """Doc str."""
+    greet()
 
 
 if __name__ == '__main__':
-	main()
-
+    main()
