@@ -6,4 +6,5 @@ villiant_brain_games.egg-info/PKG-INFO
 villiant_brain_games.egg-info/SOURCES.txt
 villiant_brain_games.egg-info/dependency_links.txt
 villiant_brain_games.egg-info/entry_points.txt
+villiant_brain_games.egg-info/requires.txt
 villiant_brain_games.egg-info/top_level.txt
